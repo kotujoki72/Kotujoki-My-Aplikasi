@@ -1,1 +1,1 @@
-# Kotujoki-My-Aplikasi
+#kotujoki.blogspot.com
