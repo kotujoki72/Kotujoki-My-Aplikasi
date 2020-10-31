@@ -1,9 +1,10 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: 'Kotujoki'
-labels: 'sig up'
-assignees: 'input'
+title: Kotujoki
+labels: documentation, duplicate, enhancement, good first issue, help wanted, invalid,
+  question, wontfix
+assignees: kotujoki72
 
 ---
 
