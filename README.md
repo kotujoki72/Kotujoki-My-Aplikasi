@@ -1,5 +1,6 @@
-PACKAGE-REGISTRY.pkg.github.com/OWNER/REPOSITORY/IMAGE-NAME), you can use a GITHUB_TOKEN.
-For the container registry (ghcr.io/OWNER/IMAGE
+PACKAGE-REGISTRY.pkg.github.com/OWNER/REPOSITORY/IMAGE-NAME),
+<GITHUB_TOKEN>
+ (ghcr.io/OWNER/IMAGE)
  name="ProjectCodeStyleConfiguration">
   <code_scheme name="Project" version="173">
     <codeStyleSettings language="XML">
